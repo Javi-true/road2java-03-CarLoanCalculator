@@ -27,7 +27,9 @@ public class CarLoan {
     }
     public static void main(String[] args){
 
+        CarLoan carLoan1 = new CarLoan();
 
+        carLoan1.validation();
     }
 
 }
